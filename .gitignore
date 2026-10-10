@@ -1,4 +1,17 @@
+.DS_Store
+.ipynb_checkpoints
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+data/
+downloads/
+
+*.log
+*.pdf
+*.pid
+*.png
+*.rds
+*.tif
+*.zip
